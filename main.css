@@ -1,0 +1,26 @@
+#upload{
+    text-align: center;
+    background: lightblue;
+    border: 10px;
+}
+input{
+    margin: 2em 0;
+}
+
+#buttons{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 2em 0;
+    border: 1px solid lightblue;
+    border-radius: 10px;
+    padding: 10px;
+}
+button{
+    background: lightblue;
+    border-radius: 10px;
+    width: 10em;
+    padding: 10px;
+}
+canvas{
+    max-width: 100%;
+}
